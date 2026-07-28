@@ -1,0 +1,111 @@
+Destination_Name,State,Country,Category,Budget,Best_Season,Description,Rating
+Goa Beaches,Goa,India,Beach,250,Winter,"Golden sand, beach shacks, and a lively nightlife scene along India's most famous coastline.",4.5
+Havelock Island,Andaman & Nicobar,India,Beach,400,Winter,Crystal-clear waters and coral reefs make this the Andamans' top spot for diving and snorkeling.,4.7
+Kovalam Beach,Kerala,India,Beach,200,Winter,"A crescent-shaped beach backed by swaying palms, famous for its lighthouse and Ayurvedic resorts.",4.3
+Varkala Beach,Kerala,India,Beach,220,Winter,"Dramatic red cliffs overlook the Arabian Sea, with cafes perched right along the clifftop.",4.4
+Gokarna Beach,Karnataka,India,Beach,180,Winter,"A quieter, laid-back alternative to Goa with pristine beaches favored by backpackers.",4.2
+Puri Beach,Odisha,India,Beach,150,Winter,A sacred coastal town where golden sands meet the historic Jagannath Temple crowds.,4.0
+Digha Beach,West Bengal,India,Beach,120,Winter,A popular weekend getaway beach with a long promenade and fresh seafood stalls.,3.9
+Marina Beach,Tamil Nadu,India,Beach,100,Winter,"One of the world's longest urban beaches, buzzing with food vendors and evening crowds.",4.0
+Diu Beach,Diu,India,Beach,200,Winter,A peaceful Portuguese-influenced coastal town with clean beaches and old fort ruins.,4.1
+Alibaug,Maharashtra,India,Beach,180,Winter,"A relaxed coastal retreat near Mumbai, dotted with old forts and weekend beach resorts.",4.1
+"Kuta Beach, Bali",Bali,Indonesia,Beach,700,Summer,World-famous surf breaks and stunning sunsets draw travelers from across the globe.,4.6
+"Patong Beach, Phuket",Phuket,Thailand,Beach,650,Winter,A vibrant beach town blending water sports by day with buzzing nightlife after dark.,4.4
+Maldives Atolls,Maldives,Maldives,Beach,2500,Winter,Overwater bungalows and turquoise lagoons make this the ultimate luxury beach escape.,4.9
+Santorini Beaches,Santorini,Greece,Beach,1800,Summer,Volcanic black-sand beaches beneath whitewashed cliffside villages overlooking the Aegean.,4.8
+Bora Bora,Bora Bora,French Polynesia,Beach,3200,Summer,"An iconic lagoon ringed by coral reefs, famous for its overwater villas and snorkeling.",4.9
+Copacabana Beach,Rio de Janeiro,Brazil,Beach,900,Summer,"A lively urban beach framed by mountains, samba rhythms, and beach volleyball courts.",4.5
+Waikiki Beach,Hawaii,USA,Beach,1500,Summer,"A classic surf beach lined with resorts, food trucks, and views of Diamond Head crater.",4.5
+"White Beach, Boracay",Boracay,Philippines,Beach,600,Summer,Powder-white sand and calm turquoise water make this one of Southeast Asia's finest beaches.,4.6
+"Nungwi Beach, Zanzibar",Zanzibar,Tanzania,Beach,800,Summer,Dhow boats drift past pristine sands on this laid-back island famed for its spice trade history.,4.5
+Cancun Beaches,Quintana Roo,Mexico,Beach,1100,Winter,Caribbean turquoise waters and lively resorts along Mexico's most popular coastline.,4.4
+Shimla,Himachal Pradesh,India,Hill Station,300,Summer,"The former British summer capital, known for its colonial architecture and pine-covered ridges.",4.3
+Manali,Himachal Pradesh,India,Hill Station,350,Summer,"A Himalayan retreat surrounded by snow-capped peaks, apple orchards, and river valleys.",4.5
+Darjeeling,West Bengal,India,Hill Station,280,Summer,Rolling tea gardens and views of Kanchenjunga define this misty Himalayan hill town.,4.4
+Ooty,Tamil Nadu,India,Hill Station,250,Summer,"The 'Queen of Hill Stations', with botanical gardens and a scenic mountain toy train.",4.3
+Munnar,Kerala,India,Hill Station,260,Winter,Emerald tea plantations blanket rolling hills beneath the Western Ghats' misty peaks.,4.6
+Coorg,Karnataka,India,Hill Station,240,Winter,Coffee estates and waterfalls earn this region the nickname 'Scotland of India'.,4.5
+Nainital,Uttarakhand,India,Hill Station,230,Summer,"A picturesque lake town ringed by forested hills, popular for boating and colonial charm.",4.2
+Mussoorie,Uttarakhand,India,Hill Station,220,Summer,Panoramic Himalayan views and colonial-era markets make this the 'Queen of the Hills'.,4.2
+Gangtok,Sikkim,India,Hill Station,300,Summer,"A vibrant Himalayan capital with monasteries, cable cars, and views of Kanchenjunga.",4.5
+Kodaikanal,Tamil Nadu,India,Hill Station,240,Summer,A tranquil hill retreat centered around a star-shaped lake and eucalyptus-scented forests.,4.3
+Mount Abu,Rajasthan,India,Hill Station,200,Winter,"Rajasthan's only hill station, home to intricately carved Dilwara Jain temples.",4.1
+Lansdowne,Uttarakhand,India,Hill Station,180,Summer,An untouched cantonment town with oak forests and none of the usual hill-station crowds.,4.2
+Kasauli,Himachal Pradesh,India,Hill Station,200,Summer,A quiet colonial-era cantonment town with pine trails and heritage churches.,4.1
+Yercaud,Tamil Nadu,India,Hill Station,190,Summer,A lesser-known hill retreat with coffee plantations circling a peaceful lake.,4.0
+Dalhousie,Himachal Pradesh,India,Hill Station,210,Summer,Pine and deodar forests wrap around this serene colonial hill town near the Dhauladhar range.,4.2
+Chikmagalur,Karnataka,India,Hill Station,230,Winter,"Coffee country nestled in the Western Ghats, with misty viewpoints and trekking trails.",4.4
+Pahalgam,Jammu & Kashmir,India,Hill Station,300,Summer,Meadows and pine forests along the Lidder River make this the 'Valley of Shepherds'.,4.6
+Gulmarg,Jammu & Kashmir,India,Hill Station,350,Winter,"Kashmir's premier ski destination, with Asia's highest cable car and alpine meadows.",4.7
+Tawang,Arunachal Pradesh,India,Hill Station,320,Summer,A remote Himalayan town home to India's largest Buddhist monastery and dramatic mountain passes.,4.5
+Shillong,Meghalaya,India,Hill Station,260,Monsoon,"Waterfalls, living root bridges, and rolling hills earn this the nickname 'Scotland of the East'.",4.4
+Mumbai,Maharashtra,India,City,300,Winter,"India's bustling financial capital, blending colonial architecture with Bollywood glamour.",4.2
+Delhi,Delhi,India,City,280,Winter,"A capital city layered with Mughal monuments, British-era avenues, and vibrant markets.",4.1
+Bengaluru,Karnataka,India,City,260,Winter,"India's tech hub, known for its gardens, craft breweries, and pleasant year-round climate.",4.2
+Jaipur,Rajasthan,India,City,270,Winter,"The 'Pink City', famed for its palaces, forts, and bustling bazaars.",4.5
+Hyderabad,Telangana,India,City,250,Winter,"A city of pearls and biryani, anchored by the iconic Charminar and Golconda Fort.",4.3
+Kolkata,West Bengal,India,City,220,Winter,"India's cultural capital, rich in colonial architecture, literature, and street food.",4.1
+Chennai,Tamil Nadu,India,City,230,Winter,"A coastal metropolis blending Dravidian temples, classical arts, and Marina Beach.",4.0
+Ahmedabad,Gujarat,India,City,210,Winter,A UNESCO heritage city known for its old-city architecture and vibrant textile markets.,4.0
+Pune,Maharashtra,India,City,240,Winter,"A youthful city of colleges and IT parks, with a pleasant climate and Peshwa-era history.",4.1
+Lucknow,Uttar Pradesh,India,City,200,Winter,"The 'City of Nawabs', celebrated for its Awadhi cuisine and elegant Mughal architecture.",4.2
+Paris,Île-de-France,France,City,1800,Summer,"The City of Light, home to the Eiffel Tower, world-class museums, and iconic cafes.",4.7
+London,England,United Kingdom,City,2000,Summer,"A global capital of history and culture, from the Tower of London to the West End.",4.6
+New York City,New York,USA,City,2200,Summer,"The city that never sleeps, packed with iconic skylines, museums, and Broadway shows.",4.7
+Tokyo,Tokyo,Japan,City,2100,Summer,A dazzling blend of neon-lit modernity and centuries-old temples and traditions.,4.8
+Dubai,Dubai,UAE,City,1900,Winter,A futuristic desert metropolis of record-breaking skyscrapers and luxury shopping.,4.5
+Singapore,Singapore,Singapore,City,1700,Winter,A spotless garden city famed for its street food hawker centers and futuristic skyline.,4.6
+Rome,Lazio,Italy,City,1600,Summer,"The Eternal City, where ancient ruins like the Colosseum meet Renaissance art.",4.7
+Barcelona,Catalonia,Spain,City,1500,Summer,Gaudí's whimsical architecture meets Mediterranean beaches in this vibrant Catalan capital.,4.6
+Bangkok,Bangkok,Thailand,City,700,Winter,"A vibrant capital of ornate temples, floating markets, and legendary street food.",4.4
+Amsterdam,North Holland,Netherlands,City,1600,Summer,"A canal-laced city famed for its museums, cycling culture, and historic gabled houses.",4.6
+Rishikesh,Uttarakhand,India,Adventure,200,Summer,"The 'Yoga Capital of the World', also famed for white-water rafting on the Ganges.",4.5
+Leh-Ladakh,Ladakh,India,Adventure,500,Summer,"High-altitude desert landscapes, Buddhist monasteries, and legendary mountain passes.",4.8
+Spiti Valley,Himachal Pradesh,India,Adventure,450,Summer,A remote cold desert valley of ancient monasteries and dramatic Himalayan terrain.,4.7
+Auli,Uttarakhand,India,Adventure,300,Winter,A snow-covered ski destination with views of Nanda Devi via India's longest cable car.,4.5
+Bir Billing,Himachal Pradesh,India,Adventure,250,Summer,"India's paragliding capital, offering some of the longest flying routes in Asia.",4.6
+Kasol,Himachal Pradesh,India,Adventure,220,Summer,"A backpacker hub in the Parvati Valley, gateway to Himalayan treks and riverside camps.",4.4
+Chopta,Uttarakhand,India,Adventure,240,Summer,"The 'Mini Switzerland of India', a trekking base for alpine meadows and high-altitude lakes.",4.5
+Zanskar Valley,Ladakh,India,Adventure,480,Summer,A remote frozen-river trekking destination famous for the extreme Chadar Trek.,4.7
+Netravati Trek,Karnataka,India,Adventure,180,Winter,A forested Western Ghats trail leading to one of Karnataka's most scenic river-valley trekking routes.,4.3
+Coorg River Rafting,Karnataka,India,Adventure,200,Monsoon,White-water rapids on the Barapole River amid the coffee hills of Coorg.,4.2
+Sikkim Trekking Trails,Sikkim,India,Adventure,350,Summer,High-altitude trails through rhododendron forests toward Kanchenjunga base camps.,4.6
+Chadar-Zanskar Circuit,Ladakh,India,Adventure,500,Winter,A frozen-river expedition across the dramatic gorges of the Zanskar range.,4.7
+Queenstown,Otago,New Zealand,Adventure,1400,Summer,"The self-proclaimed adventure capital of the world, home to bungee jumping and jet boating.",4.8
+Interlaken,Bern,Switzerland,Adventure,1600,Summer,"A alpine town between two lakes, offering skydiving, paragliding, and glacier hikes.",4.7
+Moab,Utah,USA,Adventure,900,Summer,"Red-rock desert canyons that draw mountain bikers, jeepers, and canyoneers year-round.",4.6
+Chamonix,Auvergne-Rhône-Alpes,France,Adventure,1500,Winter,"At the foot of Mont Blanc, a legendary base for skiing, mountaineering, and via ferrata.",4.7
+Cairns,Queensland,Australia,Adventure,1300,Summer,"Gateway to the Great Barrier Reef, offering diving, rainforest zip-lining, and reef cruises.",4.6
+El Chaltén,Santa Cruz,Argentina,Adventure,1100,Summer,"Argentina's trekking capital, set beneath the jagged spires of Mount Fitz Roy.",4.7
+Annapurna Circuit,Gandaki,Nepal,Adventure,600,Winter,One of the world's classic long-distance treks through diverse Himalayan landscapes.,4.8
+Banff National Park,Alberta,Canada,Adventure,1200,Winter,Turquoise glacial lakes and the Canadian Rockies make this a hiking and skiing icon.,4.8
+Jim Corbett National Park,Uttarakhand,India,Wildlife,300,Winter,"India's oldest national park, renowned for its Bengal tiger population and jungle safaris.",4.5
+Ranthambore National Park,Rajasthan,India,Wildlife,320,Winter,A former royal hunting ground now famous for tiger sightings amid ancient fort ruins.,4.6
+Kaziranga National Park,Assam,India,Wildlife,280,Winter,A UNESCO site protecting the world's largest population of one-horned rhinoceroses.,4.6
+Bandhavgarh National Park,Madhya Pradesh,India,Wildlife,300,Winter,"One of India's highest tiger-density reserves, set among dense sal forests.",4.5
+Gir National Park,Gujarat,India,Wildlife,250,Winter,"The last refuge of the wild Asiatic lion, found nowhere else on Earth.",4.5
+Sundarbans National Park,West Bengal,India,Wildlife,260,Winter,"The world's largest mangrove forest, home to elusive Royal Bengal tigers and river dolphins.",4.3
+Periyar Wildlife Sanctuary,Kerala,India,Wildlife,240,Winter,Boat safaris across a scenic lake reveal elephants and wildlife along the Periyar reservoir.,4.3
+Kanha National Park,Madhya Pradesh,India,Wildlife,290,Winter,The sal and bamboo forests that inspired Kipling's 'The Jungle Book'.,4.5
+Nagarhole National Park,Karnataka,India,Wildlife,260,Winter,"Dense forests along the Kabini river teeming with elephants, tigers, and leopards.",4.4
+Pench National Park,Madhya Pradesh,India,Wildlife,270,Winter,A biodiverse tiger reserve straddling Madhya Pradesh and Maharashtra.,4.4
+Serengeti National Park,Mara,Tanzania,Wildlife,2200,Summer,"Home to the Great Migration, where millions of wildebeest cross endless savanna plains.",4.9
+Masai Mara,Narok,Kenya,Wildlife,2000,Summer,"Iconic savanna teeming with lions, elephants, and the annual wildebeest migration.",4.9
+Kruger National Park,Mpumalanga,South Africa,Wildlife,1800,Winter,"One of Africa's largest game reserves, famous for Big Five safari sightings.",4.8
+Galápagos Islands,Galápagos,Ecuador,Wildlife,3000,Summer,Remote volcanic islands where giant tortoises and marine iguanas roam undisturbed.,4.9
+Yellowstone National Park,Wyoming,USA,Wildlife,1200,Summer,"Geysers, bison herds, and grizzly bears across America's first national park.",4.8
+Varanasi,Uttar Pradesh,India,Religious,180,Winter,"One of the world's oldest living cities, where ghats along the Ganges host ancient rituals.",4.6
+Haridwar,Uttarakhand,India,Religious,170,Winter,"A gateway to the Himalayas, famed for its evening Ganga Aarti along the riverbanks.",4.4
+"Golden Temple, Amritsar",Punjab,India,Religious,190,Winter,"Sikhism's holiest shrine, a gleaming gold structure surrounded by a sacred pool.",4.8
+Tirupati,Andhra Pradesh,India,Religious,200,Winter,"Home to one of the world's most-visited pilgrimage temples, the Sri Venkateswara Temple.",4.6
+Bodh Gaya,Bihar,India,Religious,180,Winter,"The site where Buddha attained enlightenment, anchored by the Mahabodhi Temple.",4.6
+Ajmer Sharif,Rajasthan,India,Religious,160,Winter,A revered Sufi shrine drawing pilgrims of all faiths to its historic dargah.,4.4
+Shirdi,Maharashtra,India,Religious,170,Winter,A major pilgrimage town centered on the shrine of the revered saint Sai Baba.,4.5
+Vaishno Devi,Jammu & Kashmir,India,Religious,220,Winter,"A cave shrine high in the Trikuta hills, reached by a pilgrim trek through the mountains.",4.6
+Rameswaram,Tamil Nadu,India,Religious,190,Winter,A sacred island town anchored by the towering corridors of the Ramanathaswamy Temple.,4.5
+Dwarka,Gujarat,India,Religious,200,Winter,"One of Hinduism's four holiest pilgrimage sites, linked to the legends of Lord Krishna.",4.4
+Puri Jagannath Temple,Odisha,India,Religious,180,Winter,Famed for its annual Rath Yatra chariot festival honoring Lord Jagannath.,4.5
+"Meenakshi Temple, Madurai",Tamil Nadu,India,Religious,190,Winter,A soaring Dravidian temple complex famed for its intricately carved gopurams.,4.7
+Mecca,Makkah,Saudi Arabia,Religious,2500,Winter,"Islam's holiest city, drawing millions of pilgrims each year for the Hajj and Umrah.",4.9
+Vatican City,Vatican City,Vatican City,Religious,1400,Summer,"The spiritual center of Catholicism, home to St. Peter's Basilica and the Sistine Chapel.",4.8
+Old City of Jerusalem,Jerusalem,Israel,Religious,1500,Summer,"A walled city sacred to three major faiths, home to the Western Wall and Church of the Holy Sepulchre.",4.7
