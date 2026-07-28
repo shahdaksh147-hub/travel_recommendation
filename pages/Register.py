@@ -1,64 +1,61 @@
-"""
-pages/Register.py
-==================
-Renders the Register page and handles creating a new user account.
-
-All actual validation (email format, password strength, duplicate
-email, matching confirmation) lives in auth.register_user() — this
-module is purely responsible for collecting input and displaying
-the result.
-"""
-
 import streamlit as st
-from auth import register_user, MIN_PASSWORD_LENGTH
+
+from auth import register_user
 
 
-def render() -> None:
-    """Render the Register page UI and handle form submission."""
-    left, center, right = st.columns([1, 2, 1])
+def render():
 
-    with center:
-        st.title("📝 Create Your Account")
-        st.caption("Sign up to start getting AI-powered travel recommendations.")
-        st.write("")
+    st.title("📝 Create Account")
 
-        with st.form("register_form"):
-            full_name = st.text_input("Full Name", placeholder="Jane Doe")
-            email = st.text_input("Email", placeholder="you@example.com")
-            password = st.text_input("Password", type="password", placeholder="Choose a password")
-            confirm_password = st.text_input(
-                "Confirm Password", type="password", placeholder="Re-enter your password"
-            )
+    st.write("Create your free account.")
 
-            st.caption(
-                f"Password must be at least {MIN_PASSWORD_LENGTH} characters long, "
-                "and include at least one uppercase letter and one digit."
-            )
+    st.write("")
 
-            submitted = st.form_submit_button("Create Account", use_container_width=True, type="primary")
+    with st.form("register_form"):
 
-        if submitted:
-            _handle_registration(full_name, email, password, confirm_password)
+        full_name = st.text_input(
+            "Full Name"
+        )
 
-        st.divider()
-        st.caption("Already have an account? Select **Login** from the sidebar.")
+        email = st.text_input(
+            "Email"
+        )
 
+        password = st.text_input(
+            "Password",
+            type="password"
+        )
 
-def _handle_registration(full_name: str, email: str, password: str, confirm_password: str) -> None:
-    """
-    Submit the registration form data to auth.register_user and
-    display the outcome.
+        confirm = st.text_input(
+            "Confirm Password",
+            type="password"
+        )
 
-    Args:
-        full_name: The user's full name.
-        email: The user's email address.
-        password: The chosen password.
-        confirm_password: The re-entered password for confirmation.
-    """
-    success, message = register_user(full_name, email, password, confirm_password)
+        submitted = st.form_submit_button(
+            "Register",
+            type="primary",
+            use_container_width=True
+        )
 
-    if success:
-        st.success(message)
-        st.info("You can now switch to the **Login** page in the sidebar to sign in.")
-    else:
-        st.error(message)
+    if submitted:
+
+        success, message = register_user(
+            full_name,
+            email,
+            password,
+            confirm
+        )
+
+        if success:
+
+            st.success(message)
+
+            st.balloons()
+
+        else:
+
+            st.error(message)
+
+    st.info(
+        "Already registered? Login from the sidebar."
+    )
