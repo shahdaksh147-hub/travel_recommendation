@@ -1,13 +1,11 @@
 import streamlit as st
 
-from pages import (
-    login,
-    register,
-    home,
-    recommendation,
-    search,
-    dashboard,
-)
+import pages.login as login
+import pages.register as register
+import pages.home as home
+import pages.recommendation as recommendation
+import pages.search as search
+import pages.dashboard as dashboard
 
 # ---------------------------------------------------
 # Page Config
